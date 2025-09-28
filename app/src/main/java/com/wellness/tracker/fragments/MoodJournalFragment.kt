@@ -15,8 +15,7 @@ import com.wellness.tracker.adapters.MoodEntriesAdapter
 import com.wellness.tracker.data.PreferencesManager
 import com.wellness.tracker.databinding.FragmentMoodJournalBinding
 import com.wellness.tracker.models.MoodEntry
-import java.text.SimpleDateFormat
-import java.util.*
+
 
 class MoodJournalFragment : Fragment() {
 

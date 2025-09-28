@@ -11,7 +11,6 @@ import androidx.core.app.NotificationCompat
 import com.wellness.tracker.MainActivity
 import com.wellness.tracker.R
 import com.wellness.tracker.data.PreferencesManager
-import java.util.*
 
 object HydrationReminderService {
     

@@ -8,7 +8,6 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
-import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.wellness.tracker.databinding.ActivityMainBinding
 import com.wellness.tracker.fragments.HabitsFragment
 import com.wellness.tracker.fragments.MoodJournalFragment

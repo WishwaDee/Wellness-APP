@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import androidx.fragment.app.Fragment
-import com.wellness.tracker.R
+
 import com.wellness.tracker.data.PreferencesManager
 import com.wellness.tracker.databinding.FragmentSettingsBinding
 import com.wellness.tracker.notifications.HydrationReminderService
