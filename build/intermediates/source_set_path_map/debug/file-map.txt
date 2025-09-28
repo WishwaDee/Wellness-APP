@@ -48,10 +48,10 @@ com.wellness.tracker-transition-1.4.1-46 C:\Users\Wishwa Dilshan\.gradle\caches\
 com.wellness.tracker-navigation-ui-2.7.6-47 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\e2e4318900d905165fa648023a93079a\transformed\navigation-ui-2.7.6\res
 com.wellness.tracker-fragment-1.6.2-48 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\edf1e68e950d390bc67b1639ac867d93\transformed\fragment-1.6.2\res
 com.wellness.tracker-navigation-fragment-2.7.6-49 C:\Users\Wishwa Dilshan\.gradle\caches\9.0-milestone-1\transforms\f9ef44baba8522e81d69ee7a2f2c4b67\transformed\navigation-fragment-2.7.6\res
-com.wellness.tracker-pngs-50 D:\wellnessapp\project\build\generated\res\pngs\debug
-com.wellness.tracker-resValues-51 D:\wellnessapp\project\build\generated\res\resValues\debug
-com.wellness.tracker-packageDebugResources-52 D:\wellnessapp\project\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.wellness.tracker-packageDebugResources-53 D:\wellnessapp\project\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.wellness.tracker-merged_res-54 D:\wellnessapp\project\build\intermediates\merged_res\debug
-com.wellness.tracker-debug-55 D:\wellnessapp\project\src\debug\res
-com.wellness.tracker-main-56 D:\wellnessapp\project\src\main\res
+com.wellness.tracker-pngs-50 D:\Wellness-APP\build\generated\res\pngs\debug
+com.wellness.tracker-resValues-51 D:\Wellness-APP\build\generated\res\resValues\debug
+com.wellness.tracker-packageDebugResources-52 D:\Wellness-APP\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.wellness.tracker-packageDebugResources-53 D:\Wellness-APP\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.wellness.tracker-merged_res-54 D:\Wellness-APP\build\intermediates\merged_res\debug
+com.wellness.tracker-debug-55 D:\Wellness-APP\src\debug\res
+com.wellness.tracker-main-56 D:\Wellness-APP\src\main\res
